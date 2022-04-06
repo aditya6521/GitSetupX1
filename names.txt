@@ -1,5 +1,7 @@
 Adding Files
 Directly from Git Bash
 TO the Txt file
-
 Saving via Notepad
+
+Saving New File to test the progress.:x
+
