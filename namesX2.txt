@@ -1,3 +1,7 @@
 Added the second file to test the delete feature.
 :x
 Adding code while the file is stashed :x
+
+
+Linking local git with github: Completed
+Linkng VS with sxact local git: Completed
